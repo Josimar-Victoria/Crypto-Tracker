@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 <img src='https://github.com/Josimar-Victoria/Crypto-Tracker/blob/main/Captura%20de%20pantalla%20de%202021-10-24%2001-11-04.png?raw=true' alt='img'/>
+<img src='https://github.com/Josimar-Victoria/Crypto-Tracker/blob/main/Captura%20de%20pantalla%20de%202021-10-24%2001-11-14.png?raw=true' alt='img'/>
 ## Getting Started
 
 First, run the development server:
